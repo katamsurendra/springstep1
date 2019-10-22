@@ -1,0 +1,8 @@
+/home/ubuntu/Desktop/assignment/spring/keepnote-step1-boilerplate/src/main/java/com/stackroute/keepnote/repository/NoteRepository.java
+/home/ubuntu/Desktop/assignment/spring/keepnote-step1-boilerplate/src/main/java/com/stackroute/keepnote/config/WebAppInitializer.java
+/home/ubuntu/Desktop/assignment/spring/keepnote-step1-boilerplate/src/main/java/com/stackroute/keepnote/repository/EmployeeRepository.java
+/home/ubuntu/Desktop/assignment/spring/keepnote-step1-boilerplate/src/main/java/com/stackroute/keepnote/config/WebMvcConfiguration.java
+/home/ubuntu/Desktop/assignment/spring/keepnote-step1-boilerplate/src/main/java/com/stackroute/keepnote/model/Employee.java
+/home/ubuntu/Desktop/assignment/spring/keepnote-step1-boilerplate/src/main/java/com/stackroute/keepnote/model/Note.java
+/home/ubuntu/Desktop/assignment/spring/keepnote-step1-boilerplate/src/main/java/com/stackroute/keepnote/controller/NoteController.java
+/home/ubuntu/Desktop/assignment/spring/keepnote-step1-boilerplate/src/main/java/com/stackroute/keepnote/controller/EmployeeController.java
